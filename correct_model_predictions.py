@@ -1,4 +1,4 @@
-from utils1 import add_predictions_to_ocr_data
+from label_utils import add_predictions_to_ocr_data
 import pandas as pd
 from utils import find_intersection_smaller, timeit
 import numpy as np
